@@ -1,0 +1,8 @@
+node_modules
+.env
+npm-debug.log
+
+.passport.js
+.DS_Store
+
+.vscode/
