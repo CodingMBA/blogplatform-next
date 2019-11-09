@@ -1,5 +1,6 @@
 node_modules
-.env
+.next
+next.config.js
 bundle.js
 npm-debug.log
 
